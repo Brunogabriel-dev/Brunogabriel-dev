@@ -8,7 +8,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brunogabriel-dev&theme=radical&hide_border=falso)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunogabriel-dev)](https://github.com/Brunogabriel-dev/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
