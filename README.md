@@ -2,9 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gabriel-santos-rosa-b8ab27226/)
 
-
+![Bruno GitHub stats](https://user-images.githubusercontent.com/95890744/188042642-b9c06391-c7d3-4e12-8b86-24b23f9ca4ad.gif)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunogabriel-dev&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brunogabriel-dev&theme=radical&hide_border=falso)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunogabriel-dev)](https://github.com/Brunogabriel-dev/github-readme-stats)
 
