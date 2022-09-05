@@ -26,4 +26,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia
+Apaixonado por tecnologia.
