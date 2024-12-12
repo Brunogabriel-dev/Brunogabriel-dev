@@ -26,6 +26,6 @@
 
 </div><br/>
 
-#Apaixonado por tecnologia.....
+#Apaixonado por tecnologia.
 
-#Front-End....
+#Front-End.
